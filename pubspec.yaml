@@ -1,0 +1,38 @@
+
+
+name: war_20220383
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  audioplayers: ^5.2.0
+  file_picker: ^6.1.1
+  just_audio: ^0.9.35
+  image_picker: ^1.0.4
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+
+   
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fotos/
+   
+
+  
